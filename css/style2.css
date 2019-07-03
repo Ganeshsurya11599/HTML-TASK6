@@ -1,0 +1,90 @@
+@media screen and (max-width: 425px)
+{
+	*{
+	margin:0;
+	padding:0;
+}
+header{
+	height: 200px;
+	margin-top: 50px;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-radius: 10px;
+	background-color: blue;
+}
+header ul{
+	list-style-type: none;
+}
+li{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+header a{
+	color: white;
+	text-decoration: none;
+}
+.a1{
+	margin-left: 130px;
+}
+.a2{
+	margin-top: 50px;
+	margin-left: -50px;
+}
+.a3{
+	margin-top: 100px;
+	margin-left: -50px;
+}
+.a4{
+	margin-top: 150px;
+	margin-left: -70px;
+}
+h2{
+	text-decoration: underline;
+	color: darkviolet;
+	margin-left: 50px;
+	margin-top: 30px;
+}
+p{
+	margin-left: 50px;
+	margin-top: -800px;
+	margin-right: 50px;
+}
+#h01{
+	text-decoration: underline;
+	color: darkviolet;
+	margin-left: 50px;
+	margin-top: -580px;
+}
+.p01{
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 50px;
+}
+.span{
+	margin-left: 0px;
+	margin-top: 800px;
+}
+#d1{
+	margin-top: 500px;
+	margin-left:50px;
+}
+#d2{
+	height: 200px;
+	width: 300px;
+	background-color: lightgray;
+	margin-left: 50px;
+	margin-top: 300px;
+}
+#h02{
+	margin-left: 50px;
+	margin-top: 20px;
+}
+#p02{
+	margin-left: 50px;
+	margin-top: 20px;
+	margin-right: 10px;
+}
+#a01{
+	margin-left: 60px;
+}
+}
